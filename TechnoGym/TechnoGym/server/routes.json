@@ -1,0 +1,5 @@
+{
+    "/api/v1/*" : "/$1",
+    "/api/v1/treadmills/:treadmillId/health-checks" : "/health-checks?treadmillId=:treadmillId"
+}
+  

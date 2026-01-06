@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "8 pack of Drinking Glasses",
+      "description": "These drinking cups feature a durable heavy base for extra stability and designed to last through clinks, splashes weighted and spills.",
+      "photoUrl": "https://via.placeholder.com/150",
+      "price": 120,
+      "collectionId": 1,
+      "rating": 3
+    },
+    {
+      "id": 2,
+      "title": "4 pack of Drinking Glasses",
+      "description": "Perfect for serving water, juice, soda, iced tea, and any other cold beverages.",
+      "photoUrl": "https://via.placeholder.com/150",
+      "price": 60,
+      "collectionId": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "title": "Authentic Leather Handbag",
+      "description": "This handbag is made of high-quality genuine leather. It features multiple compartments and an elegant design that will complement any outfit.",
+      "photoUrl": "https://via.placeholder.com/150",
+      "price": 250,
+      "collectionId": 2,
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "title": "Stainless Steel Watch",
+      "description": "This watch is made of high-quality stainless steel. It features a durable design and a stylish look that will complement any outfit.",
+      "photoUrl": "https://via.placeholder.com/150",
+      "price": 150,
+      "collectionId": 2,
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "title": "Leather Wallet",
+      "description": "This wallet is made of high-quality genuine leather. It features multiple compartments and a stylish design that will complement any outfit.",
+      "photoUrl": "https://via.placeholder.com/150",
+      "price": 100,
+      "collectionId": 2,
+      "rating": 3
+    },
+    {
+      "id": 6,
+      "title": "Leather Belt",
+      "description": "This belt is made of high-quality genuine leather. It features a durable design and a stylish look that will complement any outfit.",
+      "photoUrl": "https://via.placeholder.com/150",
+      "price": 80,
+      "collectionId": 2,
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "title": "Stanley Quencher Travel Mug",
+      "description": "This travel mug is made of high-quality stainless steel. It features a durable design and a stylish look that will complement any outfit.",
+      "photoUrl": "https://via.placeholder.com/150",
+      "price": 50,
+      "collectionId": 1,
+      "rating": 2
+    },
+    {
+      "id": 8,
+      "title": "Self-Heating Coffe Mug",
+      "description": "This coffee mug is made of top of the line technologies that will keep your coffee warm for hours.",
+      "photoUrl": "https://via.placeholder.com/150",
+      "price": 180,
+      "collectionId": 1,
+      "rating": 5
+    }
+  ],
+  "collections": [
+    {
+      "id": 1,
+      "title": "Drinkware"
+    },
+    {
+      "id": 2,
+      "title": "Accesories"
+    }
+  ]
+}

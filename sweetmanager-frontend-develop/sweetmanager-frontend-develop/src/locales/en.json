@@ -1,0 +1,107 @@
+{
+  "login-view": {
+    "title": "Welcome to Sweet Manager",
+    "login": "Login",
+    "signup": "Sign up company",
+    "sub": {
+      "text": "Don't have an account?",
+      "link": "create an account"
+    },
+    "login-panel": {
+      "email": "Email",
+      "password": "Password",
+      "remember": "Remember me",
+      "login": "Login",
+      "forgot": "Forgot password?"
+    },
+    "signup-panel": {
+      "company-name": "Company Name",
+      "name-lastname": "Name and Lastname (Owner)",
+      "email": "Email",
+      "password": "Password",
+      "signup": "Sign up",
+      "terms": {
+        "text": "By signing up, you agree to our",
+        "link": "Terms and Conditions"
+      }
+    }
+  },
+  "control-panel": "Control Panel",
+  "profile": {
+    "view": {
+      "title": "My Profile",
+      "name": "Name",
+      "change-name": "Change Name",
+      "email": "Email",
+      "change-email": "Change Email",
+      "company": "Company",
+      "see-company": "See Company",
+      "company-position": "Company Position",
+      "change-company-position": "Change Position",
+      "password": "Password",
+      "change-password": "Change Password",
+      "account": "Account",
+      "delete-account": "Delete Account",
+      "notifications": "Notifications"
+    },
+    "employee": {
+      "delete-from-company": "Delete from company"
+    }
+  },
+  "company": {
+    "view": {
+      "title": "My Company",
+      "info": "Information",
+      "business-name": "Business Name",
+      "change-business-name": "Change business name",
+      "change-ruc": "Change RUC",
+      "company": "Company",
+      "delete-company": "Delete Company"
+    },
+    "employees": {
+      "title": "Employees",
+      "search-employee": "Search employee",
+      "invite-employee": "Invite employees",
+      "see-more": "See more"
+    }
+  },
+  "charts": {
+    "header": "Control Panel",
+    "title": "Charts",
+    "room": {
+      "type": "Occupancy by room type",
+      "title": "Chart of occupancy by room type",
+      "types": {
+        "1": "Economic",
+        "2": "Standard",
+        "3": "Deluxe",
+        "4": "Suite"
+      }
+    },
+    "months": {
+      "1": "January",
+      "2": "February",
+      "3": "March",
+      "4": "April",
+      "5": "May",
+      "6": "June",
+      "7": "July",
+      "8": "August",
+      "9": "September",
+      "10": "October",
+      "11": "November",
+      "12": "December"
+    },
+    "monthly": {
+      "title": "Monthly chart of income",
+      "type": "Monthly income"
+    },
+    "monthly-income-expense": {
+      "title": "Monthly chart of income and expenses",
+      "type": {
+        "income": "Income",
+        "expense": "Expenses"
+      }
+    }
+  }
+}
