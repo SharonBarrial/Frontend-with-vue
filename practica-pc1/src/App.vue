@@ -1,0 +1,14 @@
+<script setup>
+import TheToolbar from '@/components/public/the-toolbar.component.vue'
+import TheFooter from '@/components/public/the-footer.component.vue'
+import AboutPeru from '@/components/countries/about-peru.component.vue'
+</script>
+
+
+<template>
+  <the-toolbar></the-toolbar>
+  <about-peru></about-peru>
+  <the-footer></the-footer>
+</template>
+
+<style scoped></style>
